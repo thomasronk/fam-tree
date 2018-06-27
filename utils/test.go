@@ -6,5 +6,5 @@ import (
 
 //Stuff does stuff
 func Stuff() {
-	fmt.Println("Stuff")
+	fmt.Println("Stuf1f")
 }
