@@ -1,9 +1,8 @@
 package main
 
-import (
-	"fmt"
-)
+import "fam-tree/utils"
 
 func main() {
-	fmt.Println("Hello World")
+	utils.Stuff()
+	utils.Stuff2()
 }
